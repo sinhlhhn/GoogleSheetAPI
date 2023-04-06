@@ -1,4 +1,4 @@
-# SwiftGoogleSheets
+# Draw chart with GoogleSheetAPI
 
 I asked myself how to read and write data from Google Sheets from a Swift app, and found no tutorial and no info!
 So I thought to add one myself when I have a working one.
